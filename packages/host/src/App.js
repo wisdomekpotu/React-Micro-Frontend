@@ -6,7 +6,6 @@ export default () => {
 
   return (
     <div>
-      <>React MicroFrontend Example</>
       <Product_App />
       <Cart_App />
     </div >
